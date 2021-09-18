@@ -12,4 +12,3 @@
 ### Below is a list of the most important repositories.
 
 - [Dynamic Cli](https://github.com/IndianOpenSourceFoundation/dynamic-cli): A Modern, user-friendly command-line HTTP client for the API testing, and if you're stuck - Search and browse StackOverflow without leaving the CLI.
-- [Argon](https://github.com/IndianOpenSourceFoundation/Argon): A Website that will track the website traffic and health.

@@ -1,7 +1,7 @@
 <p align="center"><a href="https://iosf.in/" target="_blank"><img src="https://raw.githubusercontent.com/IndianOpenSourceFoundation/iosf-website/f38cba6cdba11cdcb90641ac192d1a36d67b6cd8/public/img/iosf-logo.svg" width="20%"></a></p>
 
 <h1 align="center">Indian Open Source Foundation</h1>
-<h2 align="center">Promoting open source, one step at a time smiley 😀 👨‍💻</h2>
+<h2 align="center">Promoting open source, one step at a time 😀 👨‍💻</h2>
 
 > Join us as a contributor and associate with us in our journey for making Open Source Contribution lit <span role="img" aria-label="fire emoji">🔥</span> and super powerful for the budding and already existing community.
 
